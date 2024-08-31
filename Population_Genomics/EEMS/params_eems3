@@ -1,0 +1,9 @@
+datapath = input
+mcmcpath = output3
+nIndiv = 143
+nSites = 143
+nDemes = 600
+diploid = true
+numMCMCIter = 20000000
+numBurnIter = 10000000
+numThinIter = 9999
