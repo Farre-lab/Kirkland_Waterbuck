@@ -1,0 +1,9 @@
+groups:
+  bams: bam_list.txt
+outmain: results
+chroms: chroms_list.txt
+angsdparams:
+  maxdepth: 5000
+  minQ: 30
+  minMapQ: 25
+allbed: all.bed
