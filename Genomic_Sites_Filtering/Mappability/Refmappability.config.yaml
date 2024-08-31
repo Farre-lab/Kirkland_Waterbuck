@@ -1,0 +1,7 @@
+ref: REF.fasta
+outmain: results
+tmp_dir: tmp
+settings: #### for k, check multiple qc from QC results to see the reads length distribution
+ k: 150
+ e: 2
+ m: 1
