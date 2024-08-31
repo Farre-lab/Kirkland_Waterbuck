@@ -1,0 +1,9 @@
+bams: bam_list.txt
+outmain: "results"
+chroms: selected_chr.txt
+regions: noSexAndScaff_norep_het_dep_map.regions
+params:
+ angsd:
+  minQ: 20
+  minMapQ: 30
+
