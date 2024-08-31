@@ -1,0 +1,17 @@
+info: bam_list.txt
+outmain: "results"
+scriptsdir: "scripts_het"
+chroms: chroms_list.txt
+ref: REF.fasta
+all_bed: all.bed
+genome_sizes: genome_sizes.txt
+params:
+ angsd:
+  minQ: 30
+  minMapQ: 25
+ pcangsd:
+  e: 0
+ filter:
+  minF: -0.9
+  w: 10000
+  lrt: 24
