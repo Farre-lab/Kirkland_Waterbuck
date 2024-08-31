@@ -8,7 +8,7 @@
 
 **3_Adapter_Removal.sh** - removes Illumina adapters, low quality bases from FASTQ files, and collapses mates. FASTQC rerun on trimmed files.
 
-**4_MultiQC_Trim.sh** - MutliQC of trimmed files.
+**4_MultiQC_Trim.sh** - MutltiQC of trimmed files.
 
 ### Mapping Pipeline  
 
