@@ -1,0 +1,2 @@
+HiC_scaffold_25
+HiC_scaffold_26
