@@ -1,6 +1,6 @@
 #!/bin/R
 
-## LD in windows - Fusions
+## Pairwise LD in windows
 
 # commmandArgs:
 Args = commandArgs(TRUE)
