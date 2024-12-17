@@ -5,7 +5,7 @@
 #SBATCH --mem=200G
 #SBATCH --cpus-per-task=32
 
-### 2 - LD (Fusion):
+### 2 - Pairwise LD between two chromosomes:
 
 angsd=/PATH/TO/ANGSD
 ngsLD=/PATH/TO/ngsLD
