@@ -5,7 +5,7 @@
 #SBATCH --mem=200G
 #SBATCH --cpus-per-task=32
 
-### 1 - LD:
+### 1 - LD by chromosome:
 
 angsd=/PATH/TO/ANGSD
 ngsLD=/PATH/TO/ngsLD
