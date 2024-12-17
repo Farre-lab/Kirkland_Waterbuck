@@ -18,7 +18,7 @@ CHR=chrs_fusion.txt
 NAME=Common
 IND=52 ### no. individuals
 RND=0.001  ### randomly sample X% SNP pairs
-FILE=Fusion
+FILE=Fusion ### name for output file
 
 mkdir -p LD_"${NAME}"
 
