@@ -1,2 +1,3 @@
-## Chromosome-level genomics and historical museum collections reveal new insights into the population structure and chromosome evolution of waterbuck
-Preprint: https://www.biorxiv.org/content/10.1101/2025.03.19.644014v1
+## Chromosome-Level Genomics and Historical Museum Collections Reveal New Insights Into the Population Structure and Chromosome Evolution of Waterbuck
+
+Available at ME: https://onlinelibrary.wiley.com/doi/full/10.1111/mec.70218
